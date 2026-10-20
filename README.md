@@ -1,5 +1,7 @@
 # NBA 2K27 MyPlayer Camera Mod
 
+**Language:** English | [简体中文](README.zh-CN.md)
+
 Unlocks the **MyPlayer** camera (camera ID 35, shown as “自创球员” in Chinese) in standard offline game camera menus. It does not require a mod loader or change the game files on disk.
 
 ## Offline use only
