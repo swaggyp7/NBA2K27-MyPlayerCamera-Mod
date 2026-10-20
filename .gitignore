@@ -1,0 +1,8 @@
+.tools/
+.build-tools/
+.build/
+__pycache__/
+*.pyc
+release/
+dist/
+build/
